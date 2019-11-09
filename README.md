@@ -29,14 +29,26 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+<!--*> ANSWER BELOW <!--*>
+The Document Object Model :) 
 
 2. What is an event?
+<!--*> ANSWER BELOW <!--*>
+An event changes the HTMl to make an action occur with the user and the webpage. (Key Down Press) is an example. 
 
 3. What is an event listener?
+<!--*> ANSWER BELOW <!--*>
+An event listener creates a method attachment with an event to the element.  
 
 4. Why would we convert a NodeList into an Array?
+<!--*> ANSWER BELOW <!--*>
+It helps the programmer be able to use method calls for an Array! Without it NodeList can't use those methods.
 
 5. What is a component?
+<!--*> ANSWER BELOW <!--*>
+With a component you are able to use it over and over again -> (re-usable). It includes logic and behaviors too!
+
+<!--> END OF QUESTIONS <!-->
 
 ### Git Set up
 

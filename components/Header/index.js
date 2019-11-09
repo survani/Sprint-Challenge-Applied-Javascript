@@ -17,9 +17,9 @@ function Header() {
     const mainTemp = document.createElement('span');
 
     // Created Classes for the Elements.
-    mainHeader.classList('header');
-    mainDate.classList('date');
-    mainTemp.classList('temp');
+    mainHeader.classList.add('header');
+    mainDate.classList.add('date');
+    mainTemp.classList.add('temp');
 
     //add the text content
     mainDate.textContent = 'March 28, 2019';
@@ -37,4 +37,4 @@ function Header() {
 
 //adding to the dom 
 const headerToDom = document.querySelector('.header-container');
-headerToDom.appendChild(header());
+headerToDom.appendChild(Header());
